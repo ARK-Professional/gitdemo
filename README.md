@@ -1,3 +1,3 @@
 # gitdemo
-This repo created to teach how to create the repo, edit the content and commit the changes.
+This repo created to teach how to create the repo, edit the content and commit the changes. <br>
 this deals with git demo file
